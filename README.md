@@ -6,4 +6,5 @@ only works with windows right now will be available for macos later.
 
 Controls:
 left side- W-up, S-down, A-left, d- right, left control for shoot
+
 right side- arrow keys, right control for shoot
